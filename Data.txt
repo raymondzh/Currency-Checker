@@ -11,36 +11,36 @@
 <meta http-equiv="pics-label" content='(pics-1.1 "http://www.rsac.org/ratingsv01.html" l gen true comment "RSACi North America Server" for "" on "1999.09.07T12:36-0800" r (n 0 s 0 v 0 l 0))'/>
 <meta http-equiv="pics-label" content='(pics-1.1 "http://www.rsac.org/ratingsv01.html" l gen true comment "RSACi North America Server" for "http://www.xe.net/" on "1999.09.07T12:30-0800" r (n 0 s 0 v 0 l 0))'/>
 <meta content="NOODP" name="ROBOTS"/>
-<meta name="description" content="USD to CNY currency converter. Get live exchange rates for United States Dollar to China Yuan Renminbi. Use XE's free calculator to convert foreign currencies and precious metals."/>
-<meta name="keywords" content="USD,United States Dollar,CNY,China Yuan Renminbi,currency conversion, exchange rate, currency exchange, foreign exchange, currency calculator, convert, FX, XE, XE.com"/>
-<link rel="canonical" href="https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=CNY"/>
-<link rel="alternate" href="https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=CNY" hreflang="en"/>
-<link rel="alternate" href="https://www.xe.com/de/currencyconverter/convert/?Amount=1&From=USD&To=CNY" hreflang="de"/>
-<link rel="alternate" href="https://www.xe.com/es/currencyconverter/convert/?Amount=1&From=USD&To=CNY" hreflang="es"/>
-<link rel="alternate" href="https://www.xe.com/fr/currencyconverter/convert/?Amount=1&From=USD&To=CNY" hreflang="fr"/>
-<link rel="alternate" href="https://www.xe.com/pt/currencyconverter/convert/?Amount=1&From=USD&To=CNY" hreflang="pt"/>
-<link rel="alternate" href="https://www.xe.com/it/currencyconverter/convert/?Amount=1&From=USD&To=CNY" hreflang="it"/>
-<link rel="alternate" href="https://www.xe.com/sv/currencyconverter/convert/?Amount=1&From=USD&To=CNY" hreflang="sv"/>
-<link rel="alternate" href="https://www.xe.com/zh-CN/currencyconverter/convert/?Amount=1&From=USD&To=CNY" hreflang="zh-CN"/>
-<link rel="alternate" href="https://www.xe.com/zh-HK/currencyconverter/convert/?Amount=1&From=USD&To=CNY" hreflang="zh-HK"/>
-<link rel="alternate" href="https://www.xe.com/ja/currencyconverter/convert/?Amount=1&From=USD&To=CNY" hreflang="ja"/>
-<link rel="alternate" href="https://www.xe.com/ar/currencyconverter/convert/?Amount=1&From=USD&To=CNY" hreflang="ar"/>
+<meta name="description" content="USD to CAD currency converter. Get live exchange rates for United States Dollar to Canada Dollar. Use XE's free calculator to convert foreign currencies and precious metals."/>
+<meta name="keywords" content="USD,United States Dollar,CAD,Canada Dollar,currency conversion, exchange rate, currency exchange, foreign exchange, currency calculator, convert, FX, XE, XE.com"/>
+<link rel="canonical" href="https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=CAD"/>
+<link rel="alternate" href="https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=CAD" hreflang="en"/>
+<link rel="alternate" href="https://www.xe.com/de/currencyconverter/convert/?Amount=1&From=USD&To=CAD" hreflang="de"/>
+<link rel="alternate" href="https://www.xe.com/es/currencyconverter/convert/?Amount=1&From=USD&To=CAD" hreflang="es"/>
+<link rel="alternate" href="https://www.xe.com/fr/currencyconverter/convert/?Amount=1&From=USD&To=CAD" hreflang="fr"/>
+<link rel="alternate" href="https://www.xe.com/pt/currencyconverter/convert/?Amount=1&From=USD&To=CAD" hreflang="pt"/>
+<link rel="alternate" href="https://www.xe.com/it/currencyconverter/convert/?Amount=1&From=USD&To=CAD" hreflang="it"/>
+<link rel="alternate" href="https://www.xe.com/sv/currencyconverter/convert/?Amount=1&From=USD&To=CAD" hreflang="sv"/>
+<link rel="alternate" href="https://www.xe.com/zh-CN/currencyconverter/convert/?Amount=1&From=USD&To=CAD" hreflang="zh-CN"/>
+<link rel="alternate" href="https://www.xe.com/zh-HK/currencyconverter/convert/?Amount=1&From=USD&To=CAD" hreflang="zh-HK"/>
+<link rel="alternate" href="https://www.xe.com/ja/currencyconverter/convert/?Amount=1&From=USD&To=CAD" hreflang="ja"/>
+<link rel="alternate" href="https://www.xe.com/ar/currencyconverter/convert/?Amount=1&From=USD&To=CAD" hreflang="ar"/>
 <meta name="twitter:card" content="photo"/>
 <meta name="twitter:site" content="@xe"/>
-<meta name="twitter:title" content="CNY per 1 USD - Past 24 hrs"/>
-<meta name="twitter:image:src" content="http://www.xe.com/gen/charts/images/large/CNYUSD.png"/>
+<meta name="twitter:title" content="CAD per 1 USD - Past 24 hrs"/>
+<meta name="twitter:image:src" content="http://www.xe.com/gen/charts/images/large/CADUSD.png"/>
 <meta name="twitter:app:name:iphone" content="XE Currency"/>
 <meta name="twitter:app:name:ipad" content="XE Currency"/>
 <meta name="twitter:app:name:googleplay" content="XE Currency"/>
 <meta name="twitter:app:id:googleplay" content="com.xe.currency"/>
 <meta name="twitter:app:id:iphone" content="id315241195"/>
 <meta name="twitter:app:id:ipad" content="id315241195"/>
-<meta name="twitter:app:url:googleplay" content="https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=CNY"/>
-<meta name="twitter:app:url:iphone" content="https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=CNY"/>
-<meta name="twitter:app:url:ipad" content="https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=CNY"/>
-<title>XE: Convert USD/CNY. United States Dollar to China Yuan Renminbi</title>
+<meta name="twitter:app:url:googleplay" content="https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=CAD"/>
+<meta name="twitter:app:url:iphone" content="https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=CAD"/>
+<meta name="twitter:app:url:ipad" content="https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=CAD"/>
+<title>XE: Convert USD/CAD. United States Dollar to Canada Dollar</title>
 <link rel='stylesheet' href='https://s.xe.com/themes/xe/t_css/ucc_resp.6h.css' type='text/css' />	<!--[if IE]><style> .layout { height: 0; he\ight: auto; zoom: 1; } </style><![endif]-->
-<meta name="apple-itunes-app" content="app-id=315241195, app-argument=https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=CNY"/>	<script type='text/javascript'>
+<meta name="apple-itunes-app" content="app-id=315241195, app-argument=https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=CAD"/>	<script type='text/javascript'>
 var e9AdSlots = {
 ucc_lb : {site:'xecom', adSpace:'QuotesResults', size:'728x90,468x60', noAd: '1'},
 ucc_ls : {site:'xecom', adSpace:'QuotesResultsBTF', size:'300x250,300x600,160x600', noAd: '1'},
@@ -56,10 +56,10 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 ga('create', 'UA-851277-1', 'auto');
 ga('require', 'displayfeatures');
-ga('send', 'pageview', '/currencyconverter/output/USD-CNY');
+ga('send', 'pageview', '/currencyconverter/output/USD-CAD');
 ga('create', 'UA-851277-37', 'auto', {'name': 'b'});
 ga('b.require', 'displayfeatures');
-ga('b.send', 'pageview', '/currencyconverter/output/USD-CNY');
+ga('b.send', 'pageview', '/currencyconverter/output/USD-CAD');
 </script>
 </head>
 <body>
@@ -221,7 +221,7 @@ C17.614,34.223,21.866,36,26.533,36c9.941,0,18-8.059,18-18C44.533,8.059,36.475,0,
 </div>
 </nav>
 <div class="breadcrumb" id="bCrumb">
-<p class="wrapper"><a href='https://www.xe.com/'>Home</a> &gt; <a href='https://www.xe.com/currencyconverter/'>XE Currency Converter - Live Rates</a> &gt; XE: Convert USD/CNY. United States Dollar to China Yuan Renminbi</p>
+<p class="wrapper"><a href='https://www.xe.com/'>Home</a> &gt; <a href='https://www.xe.com/currencyconverter/'>XE Currency Converter - Live Rates</a> &gt; XE: Convert USD/CAD. United States Dollar to Canada Dollar</p>
 </div></header>
 <script type="text/javascript">
 $(window).scroll(function() {
@@ -245,7 +245,7 @@ AD
 </div>
 </div>	<div class="bodyContent" id="content" ontouchstart="void(0);">
 <div class='module clearfix quickFixesTopModule clearfix'>
-<div class='uccResultContainer quickFixesTopModule-left'><h1>XE Currency Converter: USD to CNY</h1><div class='icon-group-wrapper'><a href='https://www.xe.com/ratealerts/?fromAmount=1&amp;fromCurrency=USD&amp;toCurrency=CNY' onmousedown="ga('send', 'event', 'Converter Output', 'Icon Link' ,'XERA');" class='icon-individual-wrapper rateAlertButton' data-track='true' data-xeid='{&quot;generate&quot;:false,&quot;cookie&quot;:true}' data-eventtype='StartSetup' data-producttype='XERA' data-eventdata='{&quot;Placement&quot;:&quot;UCC&quot;}'><div class='icon-inner-wrapper'><div class='icon-wrap'> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" enable-background="new 0 0 60 60" width="36" height="36" ><g><path class="st0-icon" fill="#F8F8F8" d="M52.4 20.9c7.4 19.9-11.1 38.3-31 31-6-2.2-10.8-7-13.1-13.1-7.3-19.8 11.2-38.2 31.1-30.9 6 2.2 10.8 7 13 13z"/><path class="st1-icon" fill="#015b9d" d="M30.4 54.1c-3 0-6.1-.5-9.1-1.7-6.3-2.3-11.2-7.2-13.5-13.4-3.5-9.4-1.4-19.4 5.4-26.2 6.8-6.9 16.9-9 26.4-5.5 6.2 2.3 11.1 7.2 13.4 13.4 3.5 9.4 1.4 19.5-5.4 26.3-4.6 4.7-10.8 7.1-17.2 7.1zm.1-47.2c-6.1 0-12 2.3-16.4 6.8-6.5 6.5-8.4 16.1-5.1 25 2.2 5.9 6.8 10.5 12.7 12.7 9 3.3 18.6 1.3 25.1-5.2s8.4-16.1 5.1-25c-2.2-6-6.9-10.6-12.7-12.8-2.9-1-5.8-1.5-8.7-1.5z"/></g><path class="st1-icon" fill="#015b9d" d="M42.3 36.5c-2.4-.8-3-3.8-3.6-7v-.2c-.6-3.3-1.2-7-4.2-8.7-.5-.3-.9-.9-.9-1.5 0-.8-.3-1.6-.9-2.2s-1.4-.9-2.2-.9-1.6.3-2.2.9c-.6.6-.9 1.4-.9 2.2 0 .6-.3 1.2-.9 1.5-3 1.7-3.6 5.4-4.2 8.7v.2c-.6 3.2-1.2 6.2-3.6 7l-.4.2v3h8.4v.2c.4 1.9 2 3.3 3.9 3.3 2 0 3.6-1.4 3.9-3.3v-.2h8.3v-3l-.5-.2zm-9.2 3.4l-.2.4c-.4 1-1.4 1.6-2.4 1.6s-2-.6-2.4-1.6l-.2-.4h5.2zm8.4-2.3v.7h-22v-.7l.2-.1c2.7-1.3 3.4-4.6 3.9-7.9v-.1c.5-2.8 1.1-6.3 3.6-7.7 1-.6 1.5-1.6 1.5-2.7 0-.9.8-1.7 1.8-1.7s1.8.8 1.8 1.8c0 1.1.6 2.2 1.5 2.6 2.4 1.4 3 4.9 3.6 7.7v.1c.6 3.2 1.2 6.6 3.9 7.9l.2.1z"/></svg></div><span class='icon-screen-reader'>Set up a Rate Alert</span></div></a><a href='https://www.xe.com/apps/' onmousedown="ga('send', 'event', 'Converter Output', 'Icon Link' ,'Apps Page');" class='icon-individual-wrapper '><div class='icon-inner-wrapper'><div class='icon-wrap'> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" enable-background="new 0 0 60 60" width="36" height="36" ><g><path class="st0-icon" fill="#F8F8F8" d="M52.2 20.9c7.4 19.9-11.1 38.3-31 31-6-2.2-10.8-7-13.1-13.1-7.3-19.8 11.1-38.2 31-30.9 6 2.2 10.8 7 13.1 13z"/><path class="st1-icon" fill="#015b9d" d="M30.1 54.1c-3 0-6.1-.5-9.1-1.7-6.2-2.3-11.1-7.2-13.4-13.4-3.5-9.4-1.4-19.4 5.4-26.2 6.8-6.9 16.9-9 26.4-5.5 6.2 2.3 11.1 7.2 13.4 13.4 3.5 9.4 1.4 19.5-5.4 26.3-4.7 4.7-10.8 7.1-17.3 7.1zm.1-47.2c-6.1 0-12 2.3-16.4 6.8-6.5 6.5-8.4 16.1-5.1 25 2.2 5.9 6.8 10.5 12.7 12.7 9 3.3 18.6 1.3 25.1-5.2s8.4-16.1 5.1-25c-2.2-5.9-6.8-10.5-12.7-12.7-2.9-1.1-5.8-1.6-8.7-1.6z"/></g><path class="st1-icon" fill="#015b9d" d="M39.3 42.2v-23.7c0-1-.9-1.9-1.9-1.9h-14.3c-1 0-1.9.9-1.9 1.9v23.7c0 1 .9 1.8 1.9 1.8h14.4c1-.1 1.8-.9 1.8-1.8z"/><path class="st0-icon" fill="#F8F8F8" d="M27.6 40.4h5.3v1.3h-5.3zM23.1 18.6h14.3v19.6h-14.3z"/></svg></div><span class='icon-screen-reader'>Download our App</span></div></a><a href='https://www.xe.com/currencyemail/' onmousedown="ga('send', 'event', 'Converter Output', 'Icon Link' ,'Currency Email');" class='icon-individual-wrapper '><div class='icon-inner-wrapper'><div class='icon-wrap'> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" enable-background="new 0 0 60 60" width="36" height="36" ><g><path class="st0-icon" fill="#F8F8F8" d="M52.4 20.9c7.4 19.9-11.1 38.3-31 31-6-2.2-10.8-7-13.1-13.1-7.3-19.8 11.2-38.2 31-30.9 6 2.2 10.9 7 13.1 13z"/><path lass="st1-icon" fill="#015b9d" d="M30.3 54.1c-3 0-6.1-.5-9.1-1.7-6.2-2.3-11.1-7.2-13.4-13.4-3.5-9.4-1.4-19.4 5.4-26.2 6.8-6.9 16.9-9 26.4-5.5 6.2 2.3 11.1 7.2 13.4 13.4 3.5 9.4 1.4 19.5-5.4 26.3-4.7 4.7-10.8 7.1-17.3 7.1zm.2-47.2c-6.1 0-12 2.3-16.4 6.8-6.5 6.5-8.4 16.1-5.1 25 2.2 5.9 6.8 10.5 12.7 12.7 9 3.3 18.6 1.3 25.1-5.2s8.4-16.1 5.1-25c-2.3-6-6.9-10.6-12.8-12.8-2.8-1-5.8-1.5-8.6-1.5z"/></g><path class="st1-icon" fill="#015b9d" d="M43.2 22.8v-.4h-25.500000000000004v16.099999999999998c0 .3.2.6.6.6h24.4c.3 0 .6-.2.6-.6l-.1-15.7zm-2 .5l-10.1 8.8c-.4.3-.9.3-1.3 0l-10.1-8.8h21.5zm-22.5 14.7v-14l10.3 9c.4.4.9.6 1.4.6.5 0 1-.2 1.4-.5l10.3-8.9v14l-23.4-.2z"/></svg></div><span class='icon-screen-reader'>Currency Updates via Email</span></div></a></div><div id='ucc-container'><span class='uccResultWarning'></span><span class='uccAmountWrap'><span class='uccFromResultAmount'><span class='amount' data-amount="1">1</span>&nbsp;USD =</span><span class='uccResultAmount'>6.42101</span><span class='uccToCurrencyCode'>CNY</span><span class='resultRightArrow'><span class='rightArrow'></span></span></span><div class='resultContentWrap'><a href='https://www.xe.com/currency/usd-us-dollar'>US Dollar</a><span class='uccResultUnit' data-amount="6.4210087439">1 USD = 6.42101 CNY</span></div><div class='resultContentWrap leftRightArrow'><a href='https://www.xe.com/currencyconverter/convert/?Amount=1&amp;From=CNY&amp;To=USD' onmousedown="ga('send', 'event', 'InvertButton', 'ucc');" class='uccResInv'>&#8596;</a></div><div class='resultContentWrap'><a href='https://www.xe.com/currency/cny-chinese-yuan-renminbi'>Chinese Yuan Renminbi</a><span class='uccInverseResultUnit'>1 CNY = 0.155739 USD</span></div><span class='uccResultTitle clearfix'><span class='resultTime' data-time="1527612540">2018-05-29 16:49 UTC</span></span><span class='uccSubTitle clearfix'>All figures are based on live <a href='https://www.xe.com/faq/rates_buyorsellrates.php'>mid-market</a> rates. These rates are not available to consumer clients.</span><span class='createAlert clearfix'><a href='https://www.xe.com/ratealerts/?fromAmount=1&amp;fromCurrency=USD&amp;toCurrency=CNY' onmousedown="ga('send', 'event', 'Converter Output', 'Text Link' ,'XERA');" data-track='true' data-xeid='{&quot;generate&quot;:false,&quot;cookie&quot;:true}' data-eventtype='StartSetup' data-producttype='XERA' data-eventdata='{&quot;Placement&quot;:&quot;textUCC&quot;}'>Set up a Rate Alert</a></span></div>	<script type="text/javascript">
+<div class='uccResultContainer quickFixesTopModule-left'><h1>XE Currency Converter: USD to CAD</h1><div class='icon-group-wrapper'><a href='https://www.xe.com/ratealerts/?fromAmount=1&amp;fromCurrency=USD&amp;toCurrency=CAD' onmousedown="ga('send', 'event', 'Converter Output', 'Icon Link' ,'XERA');" class='icon-individual-wrapper rateAlertButton' data-track='true' data-xeid='{&quot;generate&quot;:false,&quot;cookie&quot;:true}' data-eventtype='StartSetup' data-producttype='XERA' data-eventdata='{&quot;Placement&quot;:&quot;UCC&quot;}'><div class='icon-inner-wrapper'><div class='icon-wrap'> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" enable-background="new 0 0 60 60" width="36" height="36" ><g><path class="st0-icon" fill="#F8F8F8" d="M52.4 20.9c7.4 19.9-11.1 38.3-31 31-6-2.2-10.8-7-13.1-13.1-7.3-19.8 11.2-38.2 31.1-30.9 6 2.2 10.8 7 13 13z"/><path class="st1-icon" fill="#015b9d" d="M30.4 54.1c-3 0-6.1-.5-9.1-1.7-6.3-2.3-11.2-7.2-13.5-13.4-3.5-9.4-1.4-19.4 5.4-26.2 6.8-6.9 16.9-9 26.4-5.5 6.2 2.3 11.1 7.2 13.4 13.4 3.5 9.4 1.4 19.5-5.4 26.3-4.6 4.7-10.8 7.1-17.2 7.1zm.1-47.2c-6.1 0-12 2.3-16.4 6.8-6.5 6.5-8.4 16.1-5.1 25 2.2 5.9 6.8 10.5 12.7 12.7 9 3.3 18.6 1.3 25.1-5.2s8.4-16.1 5.1-25c-2.2-6-6.9-10.6-12.7-12.8-2.9-1-5.8-1.5-8.7-1.5z"/></g><path class="st1-icon" fill="#015b9d" d="M42.3 36.5c-2.4-.8-3-3.8-3.6-7v-.2c-.6-3.3-1.2-7-4.2-8.7-.5-.3-.9-.9-.9-1.5 0-.8-.3-1.6-.9-2.2s-1.4-.9-2.2-.9-1.6.3-2.2.9c-.6.6-.9 1.4-.9 2.2 0 .6-.3 1.2-.9 1.5-3 1.7-3.6 5.4-4.2 8.7v.2c-.6 3.2-1.2 6.2-3.6 7l-.4.2v3h8.4v.2c.4 1.9 2 3.3 3.9 3.3 2 0 3.6-1.4 3.9-3.3v-.2h8.3v-3l-.5-.2zm-9.2 3.4l-.2.4c-.4 1-1.4 1.6-2.4 1.6s-2-.6-2.4-1.6l-.2-.4h5.2zm8.4-2.3v.7h-22v-.7l.2-.1c2.7-1.3 3.4-4.6 3.9-7.9v-.1c.5-2.8 1.1-6.3 3.6-7.7 1-.6 1.5-1.6 1.5-2.7 0-.9.8-1.7 1.8-1.7s1.8.8 1.8 1.8c0 1.1.6 2.2 1.5 2.6 2.4 1.4 3 4.9 3.6 7.7v.1c.6 3.2 1.2 6.6 3.9 7.9l.2.1z"/></svg></div><span class='icon-screen-reader'>Set up a Rate Alert</span></div></a><a href='https://www.xe.com/apps/' onmousedown="ga('send', 'event', 'Converter Output', 'Icon Link' ,'Apps Page');" class='icon-individual-wrapper '><div class='icon-inner-wrapper'><div class='icon-wrap'> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" enable-background="new 0 0 60 60" width="36" height="36" ><g><path class="st0-icon" fill="#F8F8F8" d="M52.2 20.9c7.4 19.9-11.1 38.3-31 31-6-2.2-10.8-7-13.1-13.1-7.3-19.8 11.1-38.2 31-30.9 6 2.2 10.8 7 13.1 13z"/><path class="st1-icon" fill="#015b9d" d="M30.1 54.1c-3 0-6.1-.5-9.1-1.7-6.2-2.3-11.1-7.2-13.4-13.4-3.5-9.4-1.4-19.4 5.4-26.2 6.8-6.9 16.9-9 26.4-5.5 6.2 2.3 11.1 7.2 13.4 13.4 3.5 9.4 1.4 19.5-5.4 26.3-4.7 4.7-10.8 7.1-17.3 7.1zm.1-47.2c-6.1 0-12 2.3-16.4 6.8-6.5 6.5-8.4 16.1-5.1 25 2.2 5.9 6.8 10.5 12.7 12.7 9 3.3 18.6 1.3 25.1-5.2s8.4-16.1 5.1-25c-2.2-5.9-6.8-10.5-12.7-12.7-2.9-1.1-5.8-1.6-8.7-1.6z"/></g><path class="st1-icon" fill="#015b9d" d="M39.3 42.2v-23.7c0-1-.9-1.9-1.9-1.9h-14.3c-1 0-1.9.9-1.9 1.9v23.7c0 1 .9 1.8 1.9 1.8h14.4c1-.1 1.8-.9 1.8-1.8z"/><path class="st0-icon" fill="#F8F8F8" d="M27.6 40.4h5.3v1.3h-5.3zM23.1 18.6h14.3v19.6h-14.3z"/></svg></div><span class='icon-screen-reader'>Download our App</span></div></a><a href='https://www.xe.com/currencyemail/' onmousedown="ga('send', 'event', 'Converter Output', 'Icon Link' ,'Currency Email');" class='icon-individual-wrapper '><div class='icon-inner-wrapper'><div class='icon-wrap'> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" enable-background="new 0 0 60 60" width="36" height="36" ><g><path class="st0-icon" fill="#F8F8F8" d="M52.4 20.9c7.4 19.9-11.1 38.3-31 31-6-2.2-10.8-7-13.1-13.1-7.3-19.8 11.2-38.2 31-30.9 6 2.2 10.9 7 13.1 13z"/><path lass="st1-icon" fill="#015b9d" d="M30.3 54.1c-3 0-6.1-.5-9.1-1.7-6.2-2.3-11.1-7.2-13.4-13.4-3.5-9.4-1.4-19.4 5.4-26.2 6.8-6.9 16.9-9 26.4-5.5 6.2 2.3 11.1 7.2 13.4 13.4 3.5 9.4 1.4 19.5-5.4 26.3-4.7 4.7-10.8 7.1-17.3 7.1zm.2-47.2c-6.1 0-12 2.3-16.4 6.8-6.5 6.5-8.4 16.1-5.1 25 2.2 5.9 6.8 10.5 12.7 12.7 9 3.3 18.6 1.3 25.1-5.2s8.4-16.1 5.1-25c-2.3-6-6.9-10.6-12.8-12.8-2.8-1-5.8-1.5-8.6-1.5z"/></g><path class="st1-icon" fill="#015b9d" d="M43.2 22.8v-.4h-25.500000000000004v16.099999999999998c0 .3.2.6.6.6h24.4c.3 0 .6-.2.6-.6l-.1-15.7zm-2 .5l-10.1 8.8c-.4.3-.9.3-1.3 0l-10.1-8.8h21.5zm-22.5 14.7v-14l10.3 9c.4.4.9.6 1.4.6.5 0 1-.2 1.4-.5l10.3-8.9v14l-23.4-.2z"/></svg></div><span class='icon-screen-reader'>Currency Updates via Email</span></div></a></div><div id='ucc-container'><span class='uccResultWarning'></span><span class='uccAmountWrap'><span class='uccFromResultAmount'><span class='amount' data-amount="1">1</span>&nbsp;USD =</span><span class='uccResultAmount'>1.30271</span><span class='uccToCurrencyCode'>CAD</span><span class='resultRightArrow'><span class='rightArrow'></span></span></span><div class='resultContentWrap'><a href='https://www.xe.com/currency/usd-us-dollar'>US Dollar</a><span class='uccResultUnit' data-amount="1.3027076215">1 USD = 1.30271 CAD</span></div><div class='resultContentWrap leftRightArrow'><a href='https://www.xe.com/currencyconverter/convert/?Amount=1&amp;From=CAD&amp;To=USD' onmousedown="ga('send', 'event', 'InvertButton', 'ucc');" class='uccResInv'>&#8596;</a></div><div class='resultContentWrap'><a href='https://www.xe.com/currency/cad-canadian-dollar'>Canadian Dollar</a><span class='uccInverseResultUnit'>1 CAD = 0.767632 USD</span></div><span class='uccResultTitle clearfix'><span class='resultTime' data-time="1527613920">2018-05-29 17:12 UTC</span></span><span class='uccSubTitle clearfix'>All figures are based on live <a href='https://www.xe.com/faq/rates_buyorsellrates.php'>mid-market</a> rates. These rates are not available to consumer clients.</span><span class='createAlert clearfix'><a href='https://www.xe.com/ratealerts/?fromAmount=1&amp;fromCurrency=USD&amp;toCurrency=CAD' onmousedown="ga('send', 'event', 'Converter Output', 'Text Link' ,'XERA');" data-track='true' data-xeid='{&quot;generate&quot;:false,&quot;cookie&quot;:true}' data-eventtype='StartSetup' data-producttype='XERA' data-eventdata='{&quot;Placement&quot;:&quot;textUCC&quot;}'>Set up a Rate Alert</a></span></div>	<script type="text/javascript">
 fitElements();
 $(window).resize(fitElements);
 $(document)
@@ -335,9 +335,9 @@ $("#inverseBtn").html("<a href='#' onclick=\"swapUCCCurrencies(); return false;\
 <span id="toInput" class="autocomplete withFlag">
 <select class="" name="To" id="to" size="1" tabindex="4">
 <option value='AUD'>AUD - Australian Dollar</option>
-<option value='CAD'>CAD - Canadian Dollar</option>
+<option value='CAD' selected="selected">CAD - Canadian Dollar</option>
 <option value='CHF'>CHF - Swiss Franc</option>
-<option value='CNY' selected="selected">CNY - Chinese Yuan Renminbi</option>
+<option value='CNY'>CNY - Chinese Yuan Renminbi</option>
 <option value='DKK'>DKK - Danish Krone</option>
 <option value='EUR'>EUR - Euro</option>
 <option value='GBP'>GBP - British Pound</option>
@@ -359,7 +359,7 @@ $("#inverseBtn").html("<a href='#' onclick=\"swapUCCCurrencies(); return false;\
 <option value='ZAR'>ZAR - South African Rand</option>
 </select>
 <script type="text/javascript">
-$("#toInput").html("<input type='text' id='to' tabindex='4' value=''/><input type='hidden' name='To' id='to_var' value='CNY'/><a href='#' id='to_sc' class='dropdownArrow '></a>");
+$("#toInput").html("<input type='text' id='to' tabindex='4' value=''/><input type='hidden' name='To' id='to_var' value='CAD'/><a href='#' id='to_sc' class='dropdownArrow '></a>");
 options.allowObsolete = true;
 options.currencyFlags = true;
 options.showFullCurrency = true;
@@ -379,7 +379,7 @@ options.allListTitle = "All Currencies";
 options.nothingToDisplayTip = "";
 options.allListTitleDetail = "";
 $('#to').autocomplete(allCurrenciesArray, options).result(onUCCSelect);
-setUCCInputValue($('#to'), 'CNY');
+setUCCInputValue($('#to'), 'CAD');
 </script>
 </span>
 <button id='ucc_go_btn_svg' class='uccGoButton' type='submit' value='Convert' tabindex='5' onclick='return svgSubmit("uccForm", "validateUCCInputs")' onmousedown="ga('send','event','UCCNewConversion','clicked');" title="Convert"><span class='uccGoBtnText'>Convert</span>	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" id="uccGoBtnImg" enable-background="new 0 0 60 60"><path class="st0-cnvrtr" d="M.4 35.1h40.4l-13.8 13.7 7.3 7.1 25.3-26.2-25.3-26.1-7.1 7.1 13.5 13.8h-40.3v10.6z" id="Icon_1_"/>
@@ -405,11 +405,11 @@ $(this).parents('.uccInputWrapper').addClass('highlight');
 </div>	<div class="main" id="contentL" role="main">
 <div class=' grid-layout'>
 <div class=' grid-item chartModule'>
-<h2>USD to CNY Chart</h2>
+<h2>USD to CAD Chart</h2>
 <script>
 var charts = '';
 var curFrom = 'USD';
-var curTo = 'CNY';
+var curTo = 'CAD';
 var curAmount = 1.00;
 var renderAtEveryTick = true;
 var invalidServerResponse = 'Invalid server response';
@@ -419,7 +419,7 @@ var copyIt = 'Or copy the debug information in the text box below and send it to
 var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
 var close = 'close';
 var UTC = 'UTC';
-var debugInfo = 'agent=rest-client/2.0.2 (linux-gnu x86_64) ruby/2.3.3p222|url=/currencyconverter/convert/?Amount=1&From=USD&To=CNY|time=Tue, 29 May 18 12:50:00 -0400';
+var debugInfo = 'agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11|url=/currencyconverter/convert/?Amount=1&From=USD&To=CAD|time=Tue, 29 May 18 13:12:02 -0400';
 var imgDir = 'https://s.xe.com/themes/xe/images';
 var initializeXeCharts = function() {
 if (curFrom !== curTo) {
@@ -446,12 +446,12 @@ chart_background_grid_hsize:67,
 on_zoom_change:function(zoom){ $('#chartForm #inverseBtn a').attr('href', '/currencycharts/?from='+curTo+'&to='+curFrom+'&view='+zoom); $('input#view').val(zoom); },
 update_url: false,
 display_desc: false,
-append_data: {"startTime":1527612540000,"interval":86400000,"rates":[0,6.4210087439]}
+append_data: {"startTime":1527613920000,"interval":86400000,"rates":[0,1.3027076215]}
 });
 }
 }
 </script> <script type="text/javascript">
-</script><div id='graphWrapper' class='detailChart-wrapper smallgraph' onclick="window.location.href='https://www.xe.com/currencycharts/?from=USD&to=CNY&view=1Y';"><div id='infoMessage' class='norates'><img class='loaderCls' alt='' src='https://s.xe.com/themes/xe/images/loader.gif' border='0'/></div> <canvas width="320" height="220" id="rates_detail" class="detailChart-graph"></canvas>
+</script><div id='graphWrapper' class='detailChart-wrapper smallgraph' onclick="window.location.href='https://www.xe.com/currencycharts/?from=USD&to=CAD&view=1Y';"><div id='infoMessage' class='norates'><img class='loaderCls' alt='' src='https://s.xe.com/themes/xe/images/loader.gif' border='0'/></div> <canvas width="320" height="220" id="rates_detail" class="detailChart-graph"></canvas>
 <div class="charts_titles">
 <div id="rates_detail_title" class="detailChart-title"></div>
 <div id="rates_detail_desc" class="detailChart-description"></div>
@@ -470,9 +470,9 @@ append_data: {"startTime":1527612540000,"interval":86400000,"rates":[0,6.4210087
 </div>
 </div>
 </div>
-<div class=' modFtr ucc-chart-footer'><a href='https://www.xe.com/currencycharts/?from=USD&amp;to=CNY&amp;view=1Y'>View full USD to CNY Chart</a></div>
+<div class=' modFtr ucc-chart-footer'><a href='https://www.xe.com/currencycharts/?from=USD&amp;to=CAD&amp;view=1Y'>View full USD to CAD Chart</a></div>
 </div><div class=' grid-item statsCardModule'>
-<div class='notifyHeaderWrap clearfix'><h2>1 USD to CNY Quick Look</h2> <span id="openNotification" class="newFeatureNotify tooltipWrapper">
+<div class='notifyHeaderWrap clearfix'><h2>1 USD to CAD Quick Look</h2> <span id="openNotification" class="newFeatureNotify tooltipWrapper">
 <span class="newFeatureText">New</span>
 <span class="tooltip">
 <span class="tooltipContent">The Quick Look tool provides an overview of the recent changes to the currencies you are viewing.</span>
@@ -533,7 +533,7 @@ $(this).removeClass(currentClasses).addClass(newClasses + " " + currentClasses);
 });
 }
 });
-var requestData = {"pageId":"ucc_convert","fromCurrency":"USD","toCurrency":"CNY","slots":["colOneContainer","colTwoContainer","internalAdSlot1","bottomFeatureAd1","bottomFeatureAd2","bottomFeatureAd3"]};
+var requestData = {"pageId":"ucc_convert","fromCurrency":"USD","toCurrency":"CAD","slots":["colOneContainer","colTwoContainer","internalAdSlot1","bottomFeatureAd1","bottomFeatureAd2","bottomFeatureAd3"]};
 getRoadRunnerRequest(requestData).done(function(response) {
 var rr = JSON.parse(response);
 var cards = rr.cards;
@@ -603,32 +603,32 @@ dataType: "text"
 <th scope='row' rowspan='1' class=''>
 <a href='https://www.xe.com/currency/usd-us-dollar' class='flagBox' title='USD' style='background: url(https://s.xe.com/themes/xe/images/flags/usd.png) no-repeat scroll 4px 0 transparent;'></a>
 </th>
-<td class='rateCell'>	<div rel="USD,USD,1,1">1.00000</div></td><td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=USD&amp;to=EUR' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='EUR,USD,1,2'>0.86608</a></td><td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=USD&amp;to=GBP' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='GBP,USD,1,3'>0.75506</a></td><td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=USD&amp;to=INR' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='INR,USD,1,4'>67.8129</a></td><td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=USD&amp;to=AUD' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='AUD,USD,1,5'>1.33155</a></td>
+<td class='rateCell'>	<div rel="USD,USD,1,1">1.00000</div></td><td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=USD&amp;to=EUR' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='EUR,USD,1,2'>0.86627</a></td><td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=USD&amp;to=GBP' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='GBP,USD,1,3'>0.75512</a></td><td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=USD&amp;to=INR' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='INR,USD,1,4'>67.8404</a></td><td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=USD&amp;to=AUD' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='AUD,USD,1,5'>1.33171</a></td>
 </tr>
 <tr class='liveRatesRw'>
 <th scope='row' rowspan='1' class=''>
 <a href='https://www.xe.com/currency/eur-euro' class='flagBox' title='EUR' style='background: url(https://s.xe.com/themes/xe/images/flags/eur.png) no-repeat scroll 4px 0 transparent;'></a>
 </th>
-<td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=EUR&amp;to=USD' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='USD,EUR,2,1'>1.15463</a></td><td class='rateCell'>	<div rel="EUR,EUR,2,2">1.00000</div></td><td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=EUR&amp;to=GBP' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='GBP,EUR,2,3'>0.87181</a></td><td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=EUR&amp;to=INR' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='INR,EUR,2,4'>78.2990</a></td><td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=EUR&amp;to=AUD' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='AUD,EUR,2,5'>1.53745</a></td>
+<td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=EUR&amp;to=USD' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='USD,EUR,2,1'>1.15438</a></td><td class='rateCell'>	<div rel="EUR,EUR,2,2">1.00000</div></td><td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=EUR&amp;to=GBP' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='GBP,EUR,2,3'>0.87169</a></td><td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=EUR&amp;to=INR' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='INR,EUR,2,4'>78.3133</a></td><td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=EUR&amp;to=AUD' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='AUD,EUR,2,5'>1.53729</a></td>
 </tr>
 <tr class='liveRatesRw'>
 <th scope='row' rowspan='1' class=''>
 <a href='https://www.xe.com/currency/gbp-british-pound' class='flagBox' title='GBP' style='background: url(https://s.xe.com/themes/xe/images/flags/gbp.png) no-repeat scroll 4px 0 transparent;'></a>
 </th>
-<td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=GBP&amp;to=USD' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='USD,GBP,3,1'>1.32441</a></td><td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=GBP&amp;to=EUR' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='EUR,GBP,3,2'>1.14704</a></td><td class='rateCell'>	<div rel="GBP,GBP,3,3">1.00000</div></td><td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=GBP&amp;to=INR' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='INR,GBP,3,4'>89.8118</a></td><td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=GBP&amp;to=AUD' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='AUD,GBP,3,5'>1.76351</a></td>
+<td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=GBP&amp;to=USD' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='USD,GBP,3,1'>1.32430</a></td><td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=GBP&amp;to=EUR' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='EUR,GBP,3,2'>1.14720</a></td><td class='rateCell'>	<div rel="GBP,GBP,3,3">1.00000</div></td><td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=GBP&amp;to=INR' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='INR,GBP,3,4'>89.8408</a></td><td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=GBP&amp;to=AUD' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='AUD,GBP,3,5'>1.76358</a></td>
 </tr>
 <tr class='liveRatesRw'>
 <th scope='row' rowspan='1' class=''>
 <a href='https://www.xe.com/currency/inr-indian-rupee' class='flagBox' title='INR' style='background: url(https://s.xe.com/themes/xe/images/flags/inr.png) no-repeat scroll 4px 0 transparent;'></a>
 </th>
-<td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=INR&amp;to=USD' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='USD,INR,4,1'>0.01475</a></td><td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=INR&amp;to=EUR' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='EUR,INR,4,2'>0.01277</a></td><td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=INR&amp;to=GBP' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='GBP,INR,4,3'>0.01113</a></td><td class='rateCell'>	<div rel="INR,INR,4,4">1.00000</div></td><td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=INR&amp;to=AUD' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='AUD,INR,4,5'>0.01964</a></td>
+<td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=INR&amp;to=USD' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='USD,INR,4,1'>0.01474</a></td><td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=INR&amp;to=EUR' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='EUR,INR,4,2'>0.01277</a></td><td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=INR&amp;to=GBP' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='GBP,INR,4,3'>0.01113</a></td><td class='rateCell'>	<div rel="INR,INR,4,4">1.00000</div></td><td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=INR&amp;to=AUD' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='AUD,INR,4,5'>0.01963</a></td>
 </tr>
 <tr class='liveRatesRw'>
 <th scope='row' rowspan='1' class=''>
 <a href='https://www.xe.com/currency/aud-australian-dollar' class='flagBox' title='AUD' style='background: url(https://s.xe.com/themes/xe/images/flags/aud.png) no-repeat scroll 4px 0 transparent;'></a>
 </th>
-<td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=AUD&amp;to=USD' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='USD,AUD,5,1'>0.75101</a></td><td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=AUD&amp;to=EUR' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='EUR,AUD,5,2'>0.65043</a></td><td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=AUD&amp;to=GBP' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='GBP,AUD,5,3'>0.56705</a></td><td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=AUD&amp;to=INR' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='INR,AUD,5,4'>50.9279</a></td><td class='rateCell'>	<div rel="AUD,AUD,5,5">1.00000</div></td>
+<td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=AUD&amp;to=USD' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='USD,AUD,5,1'>0.75092</a></td><td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=AUD&amp;to=EUR' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='EUR,AUD,5,2'>0.65049</a></td><td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=AUD&amp;to=GBP' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='GBP,AUD,5,3'>0.56703</a></td><td class='rateCell'><a href='https://www.xe.com/currencycharts/?from=AUD&amp;to=INR' onmousedown="ga(&#039;send&#039;,&#039;event&#039;,&#039;RatesTable&#039;,&#039;Flyout&#039;,&#039;Open&#039;);" rel='INR,AUD,5,4'>50.9424</a></td><td class='rateCell'>	<div rel="AUD,AUD,5,5">1.00000</div></td>
 </tr>
 </table>
 </div>
-<div class='crossRateTableMidMarketTime'><span id='ratesTimestamp' class='midMarketRateTimeStamp'>2018-05-29 16:49 UTC</span><div>All figures are based on live <a href='htt
+<div class='crossRateTableMidMarketTime'><span id='ratesTimestamp' class='midMarketRateTimeStamp'>2018-05-29 17:12 UTC</span><div>All figures are based on 
