@@ -4,7 +4,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Utility {
-	public static int errorCheck(int min, int max, Scanner in){
+	public static int errorCheck(int min, Scanner in){
 		int a;
 		while(true){ // level error trapping
 			try{
@@ -12,9 +12,9 @@ public class Utility {
 			}
 			catch(InputMismatchException e){
 				in.next();
-				a = max+1;; // making it a not valid level
+				a = min-1;; // making it a not valid level
 			}
-			if(a >= min && a <= max){
+			if(a >= min){
 				return a;
 			}
 			else{
