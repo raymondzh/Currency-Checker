@@ -52,57 +52,49 @@ public class DataMiner {
 	{
 		File output = new File("Data.txt");
 		PrintWriter out = new PrintWriter(output);
-		DataMiner.datafinder(currency, out);
-		return(DataMiner.analyze("Data.txt"));
+		return(DataMiner.datafinder(currency, out));
 	}
 	
-	public static void datafinder(String Currency, PrintWriter out) throws IOException
+	public static double datafinder(String Currency, PrintWriter out) throws IOException
 	{
 		URL url = new URL("https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=" + Currency);
+		String temp;
+	    double value= 0;
+	  
 		try
 		{
 			URLConnection con = url.openConnection();
 	        InputStream is = con.getInputStream();
 	        Scanner in = new Scanner(is);
+	       
 	        while(in.hasNext())
 	        {
-	        	out.println(in.nextLine());
+	        	temp = in.next();
+	        	if(compareWords(temp, "USD"))
+				{
+					temp = in.next();
+					if(compareWords(temp, "="))
+					{
+						try
+						{
+							value = in.nextDouble();
+						}
+						catch(InputMismatchException e)
+						{
+							in.next();
+						}
+					}
+				}
 	        }
 	        in.close();
 		}
 		catch(IOException e)
 		{}
+		return value;
         
 	}
 	
-	public static double analyze(String fileName) throws IOException
-	{
-		File input = new File(fileName);
-		Scanner in = new Scanner(input);
-		String temp;
-		double value=0;
-		while(in.hasNext())
-		{
-			temp=in.next();
-			if(compareWords(temp, "USD"))
-			{
-				temp = in.next();
-				if(compareWords(temp, "="))
-				{
-					try
-					{
-						value = in.nextDouble();
-					}
-					catch(InputMismatchException e)
-					{
-						in.next();
-					}
-				}
-			}
-		}
-		in.close();
-		return value;
-	}
+	
 	
 	public static boolean compareWords(String word, String reference)
 	{
