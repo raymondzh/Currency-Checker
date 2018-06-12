@@ -36,63 +36,73 @@ public class DataMiner {
 			{
 				if(DataMiner.datafinder(names[i])!=1)
 				{
+					//Records last two instances of data
 					values[i][0] = values[i][1];
 					values[i][1] = datafinder(names[i]);
 					
 				}
-				System.out.print(names[i] + ": " + values[i][1] + "    ");
-				System.out.printf("%.9f",values[i][1]-values[i][0]);
+				System.out.print(names[i] + ": " + values[i][1] + "    ");//prints current value
+				
+				if(values[i][1]-values[i][0] == 0)//prints change in value
+				{
+					System.out.printf("%.10f",values[i][1]-values[i][0]);
+				}
+				else
+				{
+					System.out.print( "No change");
+				}
 				System.out.println();
 			}
-			System.out.println("Do you want to check again? (Y/N)");
+			System.out.println("Do you want to check again? (Y/N)");//allows user to check data again
 			repeat = in.next().charAt(0);
 			
 			
 		}
+		System.out.println("Exiting...");
 		
 	}
 	
 	public static double datafinder(String Currency) throws IOException
 	{
+		//gets the url to connect to in order to find data
 		URL url = new URL("https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=" + Currency);
 		String temp;
 	    double value= 0;
 	  
-		try
-		{
-			URLConnection con = url.openConnection();
-	        InputStream is = con.getInputStream();
-	        Scanner in = new Scanner(is);
-	       
-	        while(in.hasNext())
-	        {
-	        	temp = in.next();
-	        	if(compareWords(temp, "USD"))
+		//opens a connection to the url
+		URLConnection con = url.openConnection();
+        InputStream is = con.getInputStream();
+        Scanner in = new Scanner(is);
+       
+        //reads and check the data from the website
+        while(in.hasNext())
+        {
+        	temp = in.next();
+        	if(compareWords(temp, "USD"))
+			{
+				temp = in.next();
+				if(compareWords(temp, "="))
 				{
-					temp = in.next();
-					if(compareWords(temp, "="))
+					try
 					{
-						try
-						{
-							value = in.nextDouble();
-						}
-						catch(InputMismatchException e)
-						{
-							in.next();
-						}
+						value = in.nextDouble();
+					}
+					catch(InputMismatchException e)//if next is not a double
+					{
+						in.next();
 					}
 				}
-	        }
-	        in.close();
-		}
-		catch(IOException e)
-		{}
+			}
+        }
+        in.close();
+	
+		
 		return value;
         
 	}
 	
 	
-	
+	//Compares to words to see if they are the same
 	public static boolean compareWords(String word, String reference)
 	{
 		if(word.length() != reference.length())
